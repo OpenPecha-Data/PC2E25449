@@ -1,0 +1,17 @@
+id: 57c6a6b641924f8e805da20747e4f0b4
+annotation_type: index
+revision: '00001'
+annotations:
+  d72621d656834e95b4da8dd7cbe7ad3c:
+    work_id: JLP1
+    parts:
+      1fa85802b14d4cf098b5c8dfb69595b5:
+        work_id: JLP1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 1433
+    span:
+    - vol: 1
+      start: 0
+      end: 1433
